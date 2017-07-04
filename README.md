@@ -12,5 +12,6 @@ Used several ML algorithm for data analysis, analytical model building. Projects
 - Pandas
 - Numpy
 - Seaborn
-- Scikit learn
+- TensorFlow
+- Scikit Learn
 - Matplotlib
